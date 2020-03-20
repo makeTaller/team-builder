@@ -9,8 +9,8 @@ function App() {
   const [regUser, setRegUser] = useState([
     {
       id: Date.now(),
-      username: 'ahaberman25',
-      email: 'ahaberman25@gmail.com',
+      username: 'kirktoller',
+      email: 'kirktolliver28@gmail.com',
       role: 'Owner'
     }
   ])
